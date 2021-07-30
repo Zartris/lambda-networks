@@ -91,3 +91,6 @@ layer(x) # (1, 64, 64, 32)
     note={under review}
 }
 ```
+
+for pytorch:
+https://github.com/leaderj1001/LambdaNetworks
